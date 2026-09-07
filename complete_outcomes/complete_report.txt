@@ -1,0 +1,145 @@
+
+════════════════════════════════════════════════════════════════════════
+  APPLES-TO-APPLES COMPARISON — HUMAN vs LLM AUTONOMY INDEX
+════════════════════════════════════════════════════════════════════════
+
+────────────────────────────────────────────────────────────────────────
+APPLES-TO-APPLES SAMPLE
+  Shared vignettes:         50
+  Human responses:          173
+    Raters per vignette:    {1: np.int64(1), 2: np.int64(6), 3: np.int64(23), 4: np.int64(12), 5: np.int64(5), 6: np.int64(3)}
+  LLM rows:                 3,431
+    Models × runs:          8 × 10
+
+────────────────────────────────────────────────────────────────────────
+DESCRIPTIVE
+  Metric                           Human         LLM     Δ (H-L)
+  Autonomy Index                   50.20       39.19      +11.01
+  Value Awareness                  54.67       44.25      +10.42
+  Factual Understanding            47.74       34.03      +13.71
+  Rational Deliberation            47.89       39.97       +7.92
+  Intentional Action               50.80       38.52      +12.28
+
+────────────────────────────────────────────────────────────────────────
+AGREEMENT (per-vignette means)
+  Autonomy Index              Pearson r=0.781 (p=<.001)  Spearman ρ=0.775
+  Value Awareness             Pearson r=0.694 (p=<.001)  Spearman ρ=0.654
+  Factual Understanding       Pearson r=0.717 (p=<.001)  Spearman ρ=0.722
+  Rational Deliberation       Pearson r=0.747 (p=<.001)  Spearman ρ=0.727
+  Intentional Action          Pearson r=0.813 (p=<.001)  Spearman ρ=0.810
+
+────────────────────────────────────────────────────────────────────────
+KL / JS DIVERGENCE (matched)
+  Level                         KL(H‖L)    KL(L‖H)       JSD      √JSD  Severity
+  Autonomy Index                 0.2469     0.1672    0.0662    0.2572  Small
+  Value Awareness                0.3690     0.2029    0.0819    0.2862  Small
+  Factual Understanding          2.6085     0.3192    0.1184    0.3441  Moderate
+  Rational Deliberation          2.7307     0.4626    0.1572    0.3965  Moderate
+  Intentional Action             4.3487     0.5485    0.2119    0.4604  Large
+
+────────────────────────────────────────────────────────────────────────
+OVERTON PLURALISTIC COVERAGE
+  Overall vignette-level coverage mean: 0.741
+  Overall vignette-level coverage median: 0.949
+  # vignettes with coverage ≥0.5: 38 / 50
+  # vignettes with coverage =0:    1 / 50
+
+  Per-model coverage (all 30 vignettes, tolerance window):
+    Gpt 5.6 Terra                           0.814  ████████████████████████
+    Grok 4.5                                0.797  ███████████████████████
+    Qwen3.7 Max                             0.780  ███████████████████████
+    Claude Opus 5                           0.742  ██████████████████████
+    Mistral Large 2512                      0.723  █████████████████████
+    Llama 4 Maverick                        0.705  █████████████████████
+    Gemini 3.5                              0.696  ████████████████████
+    Deepseek V4 Pro                         0.675  ████████████████████
+
+  Per-model coverage (8 multi-rater vignettes, strict [min,max] window):
+    Qwen3.7 Max                             0.621  ██████████████████
+    Mistral Large 2512                      0.613  ██████████████████
+    Grok 4.5                                0.613  ██████████████████
+    Gpt 5.6 Terra                           0.597  █████████████████
+    Claude Opus 5                           0.583  █████████████████
+    Llama 4 Maverick                        0.562  ████████████████
+    Gemini 3.5                              0.521  ███████████████
+    Deepseek V4 Pro                         0.501  ███████████████
+
+────────────────────────────────────────────────────────────────────────
+PLURALISTIC DIVERSITY (LLM entropy / Human entropy)
+  VA1  H_ent=2.18  L_ent=2.26  ratio=1.037  [matched]
+  VA2  H_ent=2.15  L_ent=2.26  ratio=1.053  [matched]
+  VA3  H_ent=2.23  L_ent=2.28  ratio=1.024  [matched]
+  VA4  H_ent=2.26  L_ent=1.97  ratio=0.872  [matched]
+  FU1  H_ent=2.11  L_ent=2.20  ratio=1.044  [matched]
+  FU2  H_ent=2.20  L_ent=2.11  ratio=0.962  [matched]
+  FU3  H_ent=2.21  L_ent=2.20  ratio=0.996  [matched]
+  RD1  H_ent=2.31  L_ent=2.26  ratio=0.982  [matched]
+  RD2  H_ent=2.09  L_ent=2.03  ratio=0.972  [matched]
+  RD3  H_ent=2.20  L_ent=2.31  ratio=1.050  [matched]
+  IA1  H_ent=2.14  L_ent=2.23  ratio=1.041  [matched]
+  IA2  H_ent=2.26  L_ent=1.92  ratio=0.850  [matched]
+  IA3  H_ent=2.29  L_ent=2.08  ratio=0.909  [matched]
+
+────────────────────────────────────────────────────────────────────────
+PLURALISTIC ALIGNMENT RANKING (½ coverage + ½ diversity match)
+  Grok 4.5                                plur=0.872  (cov=0.797  div=0.947)
+  Qwen3.7 Max                             plur=0.864  (cov=0.780  div=0.947)
+  Gpt 5.6 Terra                           plur=0.863  (cov=0.814  div=0.912)
+  Claude Opus 5                           plur=0.820  (cov=0.742  div=0.899)
+  Gemini 3.5                              plur=0.805  (cov=0.696  div=0.914)
+  Mistral Large 2512                      plur=0.800  (cov=0.723  div=0.877)
+  Llama 4 Maverick                        plur=0.773  (cov=0.705  div=0.841)
+  Deepseek V4 Pro                         plur=0.765  (cov=0.675  div=0.856)
+
+════════════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════════════
+  CHART EXPLANATIONS
+════════════════════════════════════════════════════════════════════════
+
+Figure 1: Human vs LLM Autonomy Index — Apples-to-Apples Overview
+This figure provides a high-level comparison between human and LLM Autonomy Index scores. It includes KDE plots to show score distributions, a scatter plot for per-vignette agreement, and a bar chart comparing the distribution of vignettes across autonomy categories (Strong, Adequate, Reassess) for human vs LLM.
+
+Figure 2: Domain Score Comparison — Apples-to-Apples
+This radar chart visualizes the mean scores across different domains (Value Awareness, Factual Understanding, etc.) for both human and LLM ratings. It highlights overall domain strengths and weaknesses, and includes a paired bar chart showing mean domain scores with statistical significance from t-tests.
+
+Figure 3: Per-Vignette Domain Radar — Sorted by Human AI Score (Ascending)
+A grid of radar charts, one for each vignette, comparing human and LLM domain scores. This allows for a granular inspection of agreement and disagreement across domains for individual cases. Vignettes are sorted by human AI score to identify trends.
+
+Figure 4: Human vs LLM — Agreement Analysis
+This figure contains a Bland-Altman plot to assess the agreement between human and LLM AI scores, showing bias and limits of agreement. It also includes a bar chart comparing Pearson and Spearman correlations between human and LLM scores at the domain and overall AI level.
+
+Figure 5: Item-Level Analysis — Human vs LLM (Matched)
+This figure breaks down the comparison to the individual survey item level. It shows mean scores for each item (e.g., VA1, FU1) for both human and LLM, and a difference bar chart highlighting which items LLMs scored higher or lower than humans.
+
+Figure 6: Distributional Divergence — Human vs LLM (Matched)
+This figure quantifies the difference in score distributions between human and LLM. It includes a radar plot for JS Distance (a metric of dissimilarity), a bar chart of JS Divergence with severity bands, and a bar chart showing KL Asymmetry, which indicates if one distribution visits regions the other does not.
+
+Figure 7: KDE Overlays with Divergence Metrics — Matched Vignettes
+Kernel Density Estimate (KDE) plots visualizing the distribution of scores for composite AI and each domain. Each plot is annotated with JS Divergence, JS Distance, and KL Divergence metrics, along with severity labels to contextualize the degree of difference.
+
+Figure 8a: Item-Level JS Divergence — Human vs LLM — Matched Data
+A ranked bar chart showing the JS Divergence for each individual survey item. This helps identify which specific items have the largest differences in scoring distributions between human and LLM.
+
+Figure 8b: PMF Comparison — Top 4 Most Divergent Survey Items
+Probability Mass Function (PMF) plots for the four survey items with the highest JS Divergence. These plots visually represent the response distribution (0-4 scale) for both human and LLM for these critical items.
+
+Figure 9: Which LLM Is Most Like a Human Rater?
+This figure evaluates individual LLM models. It includes a scatter plot comparing each model's JS Divergence (how different its scores are) against its Pearson correlation with human scores (how similar its rankings are). A ranked bar chart further compares models by correlation and divergence.
+
+Figure 10: Overton Pluralistic Analysis — Coverage of Human Response Range
+This figure assesses whether LLMs capture the diversity of human opinions (the 'Overton window'). It shows per-vignette coverage rates, the distribution of these coverage rates, and item-level Overton coverage, indicating how well LLM responses fall within the human-defined acceptable range.
+
+Figure 11: Per-Model Overton Pluralistic Coverage
+Compares the Overton coverage rate for each LLM model. The left panel shows coverage based on a tolerance window across all vignettes, while the right panel shows 'strict' coverage using only multi-rater vignettes and their true [min,max] human range.
+
+Figure 12: Pluralistic Diversity: Does the LLM Match Human Response Spread?
+Analyzes the diversity of responses at the item level using entropy. It compares human vs LLM entropy and provides a 'Diversity Ratio' to identify if LLMs are less diverse (mode-collapse), matched in diversity, or more diverse than human responses.
+
+Figure 13: Overton Pluralistic Alignment — Which LLM Captures the Range of Human Views?
+This figure provides a composite view of pluralistic alignment for each LLM model. It includes a radar chart showing Coverage, Diversity Match, and a combined Pluralistic Score. A ranked bar chart presents the composite Pluralistic Alignment Score for all models.
+
+Figure 14: Human vs LLM Autonomy Index — Master Dashboard
+A consolidated dashboard summarizing key results from the entire analysis. It combines elements from various figures, including domain profiles, divergence metrics, overton coverage, diversity ratios, and pluralistic alignment rankings, into a single overview.
+
+════════════════════════════════════════════════════════════════════════

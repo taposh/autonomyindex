@@ -1,0 +1,13 @@
+question,value
+Q1_vignette_pct,80.888
+Q1_rater_pct,0.742
+Q1_interact_pct,1.638
+Q1_residual_pct,16.732
+Q2_rater_beta,11.3244
+Q2_rater_p,0.0
+Q4_interaction_beta,-0.2507
+Q4_interaction_p,0.0003
+Q5_ECI_inter_beta,-0.0116
+Q5_ECI_inter_p,0.8912
+Q5_SPI_inter_beta,0.094
+Q5_SPI_inter_p,0.1827

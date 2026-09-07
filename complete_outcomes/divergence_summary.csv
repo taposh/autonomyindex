@@ -1,0 +1,19 @@
+level,metric,kl_hl,kl_lh,jsd,jsd_dist,severity
+composite,Autonomy Index,0.2469,0.1672,0.0662,0.2572,Small
+domain,Value Awareness,0.369,0.2029,0.0819,0.2862,Small
+domain,Factual Understanding,2.6085,0.3192,0.1184,0.3441,Moderate
+domain,Rational Deliberation,2.7307,0.4626,0.1572,0.3965,Moderate
+domain,Intentional Action,4.3487,0.5485,0.2119,0.4604,Large
+item,VA1,0.0636,0.0582,0.0217,0.1474,Negligible
+item,VA2,0.0723,0.0738,0.026,0.1612,Negligible
+item,VA3,0.0872,0.0994,0.0327,0.1809,Negligible
+item,VA4,0.3174,0.1484,0.0665,0.2579,Small
+item,FU1,0.2311,0.2486,0.0814,0.2853,Small
+item,FU2,0.0872,0.0765,0.0287,0.1694,Negligible
+item,FU3,0.0499,0.0476,0.0173,0.1317,Negligible
+item,RD1,0.0334,0.0289,0.0111,0.1054,Negligible
+item,RD2,0.1846,0.2006,0.0667,0.2582,Small
+item,RD3,0.0585,0.0588,0.021,0.1449,Negligible
+item,IA1,0.0315,0.0319,0.0114,0.1067,Negligible
+item,IA2,0.4211,0.207,0.089,0.2983,Small
+item,IA3,0.2897,0.2093,0.0825,0.2873,Small
