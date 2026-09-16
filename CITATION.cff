@@ -12,5 +12,10 @@ authors:
     orcid: "https://orcid.org/0009-0005-9300-7029"
     affiliation: "Center for Bioethics, Harvard Medical School"
 version: 1.0.0
+doi: "10.5281/zenodo.22802309"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22802309"
+    description: "Concept DOI for all versions"
 date-released: 2026-09-16
 license: MIT
