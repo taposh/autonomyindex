@@ -1,0 +1,192 @@
+case_id,case_title,VA1,VA2,VA3,VA4,FU1,FU2,FU3,RD1,RD2,RD3,IA1,IA2,IA3,ECI,SPI
+b8d6fee4-10b2-4c98-9245-368bcfe8efa5,Immigrant Caregiver Mother Fears Visit to Hospital,2,3,1,1,6,6,6,6,3,6,5,6,6,19,0
+a951fc6b-38d2-4343-9092-c4089d9f05af,Alice’s Frail Mother,3,2,4,1,4,3,3,3,2,3,4,2,6,72,32
+10ea0136-d3ef-4369-93fe-069562ae20d0,Trying to Honor Johnny's Wishes,4,3,1,6,2,6,6,3,6,3,5,4,3,76,54
+be768d69-94fd-4b4e-a85c-2d3ebe53e2a2,Don’t Take My Foot! Surrogate Decision-Making,1,1,1,4,6,6,6,2,6,1,4,1,1,42,50
+2fcaf962-9ab2-4f40-9b15-c28a94e47f05,Should a Dying Patient Receive Pain Medications or Donate Organs?,4,3,6,6,6,6,6,6,6,6,6,6,6,73,27
+1e65e275-5225-44fc-b2b4-d7e7f1757c43,Technology Means Hard Choices: To Start or Not to Start ECMO,4,3,3,6,6,6,6,6,6,6,6,6,6,70,38
+8a41b689-9c1f-450d-a56c-9517724f11b9,Disagreement Over Advance Directive,4,3,1,1,1,1,1,6,1,6,2,2,3,50,50
+2fdf254e-8125-4c24-855e-381f6093b60b,The Noncompliant or Nonadherent Patient,1,6,6,2,6,6,6,6,6,6,2,2,2,90,50
+4b0e8b83-7ee1-4d67-a36a-a520e763fe4d,When a Parent Overrules Their Child’s Best Interests,5,5,4,3,1,3,1,1,1,4,4,3,2,78,50
+b8d6fee4-10b2-4c98-9245-368bcfe8efa5,Immigrant Caregiver Mother Fears Visit to Hospital,2,6,1,6,6,2,3,3,6,6,5,6,2,80,0
+b8d6fee4-10b2-4c98-9245-368bcfe8efa5,Immigrant Caregiver Mother Fears Visit to Hospital,4,4,6,6,6,4,6,4,4,4,5,4,5,85,60
+b8d6fee4-10b2-4c98-9245-368bcfe8efa5,Immigrant Caregiver Mother Fears Visit to Hospital,2,3,6,6,5,4,4,3,6,6,5,6,1,100,4
+421635bc-0a7b-4e31-9237-a6d377f01447,Clinical Trial Consent in Alzheimer's Research,5,4,6,6,5,5,5,5,6,5,5,6,5,6,94
+7cf245e6-1373-4a64-baa5-593f44596f04,God Wants Me to Suffer. Hospital Care and Religious Beliefs,5,4,4,5,6,3,6,4,4,5,5,5,3,0,96
+df81d06d-6d9b-4f35-a646-50366ba8ccc3,Mrs. Bartolini’s Medical Team Weighs Allocation of Scarce Resources and Non-Beneficial Treatment,5,6,6,5,6,6,6,5,6,6,5,6,6,0,98
+58172a5a-26ed-4f8e-bf29-3b0f4c20448a,Baby K,5,4,5,6,6,5,6,5,5,5,5,6,3,0,80
+421635bc-0a7b-4e31-9237-a6d377f01447,Clinical Trial Consent in Alzheimer's Research,5,6,5,5,4,4,5,5,5,5,5,4,4,10,80
+58172a5a-26ed-4f8e-bf29-3b0f4c20448a,Baby K,5,5,5,5,5,5,5,5,5,5,5,5,4,15,10
+7cf245e6-1373-4a64-baa5-593f44596f04,God Wants Me to Suffer. Hospital Care and Religious Beliefs,5,5,5,6,5,6,6,5,6,5,5,6,3,15,95
+7cf245e6-1373-4a64-baa5-593f44596f04,God Wants Me to Suffer. Hospital Care and Religious Beliefs,5,5,5,6,6,6,6,5,6,5,5,6,3,15,95
+df81d06d-6d9b-4f35-a646-50366ba8ccc3,Mrs. Bartolini’s Medical Team Weighs Allocation of Scarce Resources and Non-Beneficial Treatment,5,5,5,5,6,5,5,5,5,5,5,6,4,0,90
+58172a5a-26ed-4f8e-bf29-3b0f4c20448a,Baby K,3,3,3,3,2,4,4,3,5,5,3,5,4,46,56
+df81d06d-6d9b-4f35-a646-50366ba8ccc3,Mrs. Bartolini’s Medical Team Weighs Allocation of Scarce Resources and Non-Beneficial Treatment,2,6,2,6,4,6,6,6,6,6,6,6,6,40,50
+58172a5a-26ed-4f8e-bf29-3b0f4c20448a,Baby K,3,5,3,1,6,6,1,4,6,6,5,6,3,50,50
+421635bc-0a7b-4e31-9237-a6d377f01447,Clinical Trial Consent in Alzheimer's Research,5,4,5,4,4,4,4,4,6,4,5,6,5,20,80
+7cf245e6-1373-4a64-baa5-593f44596f04,God Wants Me to Suffer. Hospital Care and Religious Beliefs,3,3,3,4,6,6,6,3,6,6,5,6,1,40,30
+2dbee500-c320-445a-b1c8-6ce15d384f96,End-Stage Cancer Treatment Decision,5,5,5,5,5,5,5,5,5,5,5,6,5,0,94
+f3d97825-2adf-479d-b44c-55c71e654010,Good Death or Assisted Suicide?,5,5,5,5,5,5,5,5,5,5,5,5,5,0,100
+411b20a7-5364-463e-a52b-0496d9119df9,When is it ethical to override a patient’s medical wishes? Mr. Schumann’s Family Benefits from His Survival,4,4,1,1,1,1,1,3,1,1,4,1,3,100,100
+f0539682-d579-4b62-b5b8-428d060c8fae,The Law or Ethics: Which Should Take Priority?,1,1,1,1,1,1,1,1,1,1,1,1,1,100,0
+b98f3c40-0aa6-4cd0-88c5-a0022fa9f26e,What Should We Do? DNR for an Adult with Down Syndrome,1,1,1,1,1,1,1,1,1,1,1,1,1,100,0
+57640e4d-1b00-4fea-a68e-56f14985568e,“ECMO? For How Long?” ECMO Extends Life and Poses Challenging Ethics Questions,1,1,1,1,1,1,1,1,1,1,1,1,1,9,13
+e1495ba6-b8a9-48e4-992f-93592bf4f0e5,Walking The Tightrope,1,1,,,,,,,,,,,,,
+df81d06d-6d9b-4f35-a646-50366ba8ccc3,Mrs. Bartolini’s Medical Team Weighs Allocation of Scarce Resources and Non-Beneficial Treatment,4,4,3,5,6,4,6,3,2,4,4,6,2,97,72
+4cfde056-677d-4a74-ae30-4fd3eb77ad39,How Do We Discharge Mr. Baylus? Challenging Discharge Plans,2,1,1,2,1,1,1,1,1,1,1,1,1,90,50
+dc498f1a-e06f-489b-802d-4c6318b613c7,Casey’s Last Inning,4,3,3,2,4,3,3,4,4,1,2,3,3,80,20
+c3b6daee-6f21-4aab-82a4-b56a4c8c33d0,Mr. Jay’s Case,5,5,5,5,5,5,5,5,5,5,5,3,5,82,40
+6e6da89b-ee8c-4867-af12-4c46ea7e2a34,Our Pregnant Daughter Didn’t Want This.,5,5,5,5,5,5,5,5,5,5,5,5,5,100,94
+6c542cba-8e40-41c6-ab42-50a30f09bd0c,"It’s Too Much – First My Daughter, and Now This",4,4,6,2,6,2,3,4,2,4,4,1,2,89,5
+411b20a7-5364-463e-a52b-0496d9119df9,When is it ethical to override a patient’s medical wishes? Mr. Schumann’s Family Benefits from His Survival,4,6,1,1,1,1,1,6,1,2,1,6,6,100,70
+3ab34a1a-34d2-4e0c-a506-7f113781ea49,Family Opposition to Organ Donation Despite First Person Consent,3,2,1,1,1,1,1,3,1,6,3,1,4,49,40
+a73401b5-5c34-4518-9b2e-8266d2df7f1b,A Family Divided,1,1,1,1,1,1,1,1,1,2,1,1,1,50,90
+b5f7c8a8-a923-4bac-ad74-655e02424ac6,My Patient’s Dying,5,5,6,6,6,6,6,5,6,6,6,4,4,30,60
+6c542cba-8e40-41c6-ab42-50a30f09bd0c,"It’s Too Much – First My Daughter, and Now This",4,5,3,4,4,3,4,4,4,4,2,2,2,,
+a951fc6b-38d2-4343-9092-c4089d9f05af,Alice’s Frail Mother,3,3,2,2,1,3,3,6,6,3,3,2,2,77,27
+106c4134-4378-4902-925c-1f1466e11eb6,“I Don’t Trust It.” Vaccine Hesitancy During a Pandemic,4,4,3,2,5,2,4,3,3,5,4,5,5,12,33
+ab682458-9bac-4a18-98c3-c91465e6bf47,Angela C – Maternal Fetal Issues,5,5,5,5,6,5,5,5,5,5,5,4,5,,
+e1495ba6-b8a9-48e4-992f-93592bf4f0e5,Walking The Tightrope,4,4,4,3,4,3,3,3,3,3,3,2,4,91,32
+c0fba7f0-45e3-4c34-9d08-c2cfb1a3e0ee,Distributive Justice: A Challenge for Clinical Ethics,5,5,6,6,6,6,6,6,6,6,5,6,6,82,50
+a42867ea-b8a4-4730-90b7-8789e8d58a7e,Everything Be Done,5,5,4,6,4,2,3,4,4,4,5,5,4,10,50
+aabec779-52ff-458d-b30d-59a0baf06f84, Maxine’s New Love and Decisional Capacity,3,2,4,4,2,4,4,4,4,4,4,6,3,81,82
+19763dda-15ed-4c17-a899-d82d7499000b,Genetic Material: To Whom Does It Belong?,3,6,6,6,6,6,3,3,6,4,4,2,4,52,60
+e1495ba6-b8a9-48e4-992f-93592bf4f0e5,Walking The Tightrope,6,6,6,2,6,6,6,6,6,6,6,6,6,30,30
+c0fba7f0-45e3-4c34-9d08-c2cfb1a3e0ee,Distributive Justice: A Challenge for Clinical Ethics,6,6,6,6,6,6,6,6,6,6,6,6,3,60,15
+a42867ea-b8a4-4730-90b7-8789e8d58a7e,Everything Be Done,6,4,6,6,6,6,6,3,6,6,4,6,4,90,41
+aabec779-52ff-458d-b30d-59a0baf06f84, Maxine’s New Love and Decisional Capacity,3,6,6,6,6,6,6,3,6,4,5,6,4,55,36
+b98f3c40-0aa6-4cd0-88c5-a0022fa9f26e,What Should We Do? DNR for an Adult with Down Syndrome,1,1,1,1,1,1,1,1,1,6,1,1,5,100,0
+f0539682-d579-4b62-b5b8-428d060c8fae,The Law or Ethics: Which Should Take Priority?,1,1,1,1,1,1,1,1,1,1,1,1,6,100,0
+57640e4d-1b00-4fea-a68e-56f14985568e,“ECMO? For How Long?” ECMO Extends Life and Poses Challenging Ethics Questions,4,5,1,1,1,1,1,1,1,3,1,1,2,80,10
+4cfde056-677d-4a74-ae30-4fd3eb77ad39,How Do We Discharge Mr. Baylus? Challenging Discharge Plans,1,1,1,2,1,1,1,1,1,6,1,1,6,100,0
+dc498f1a-e06f-489b-802d-4c6318b613c7,Casey’s Last Inning,1,1,1,1,1,1,1,1,1,6,1,1,6,100,0
+19763dda-15ed-4c17-a899-d82d7499000b,Genetic Material: To Whom Does It Belong?,5,2,5,6,2,2,4,3,6,5,5,3,4,91,80
+e1495ba6-b8a9-48e4-992f-93592bf4f0e5,Walking The Tightrope,3,4,2,2,6,6,6,2,1,2,3,2,6,70,30
+c0fba7f0-45e3-4c34-9d08-c2cfb1a3e0ee,Distributive Justice: A Challenge for Clinical Ethics,4,4,3,3,,,3,4,4,4,4,6,3,85,60
+6c542cba-8e40-41c6-ab42-50a30f09bd0c,"It’s Too Much – First My Daughter, and Now This",6,6,3,3,3,6,3,4,4,4,4,6,2,80,20
+411b20a7-5364-463e-a52b-0496d9119df9,When is it ethical to override a patient’s medical wishes? Mr. Schumann’s Family Benefits from His Survival,5,5,2,2,2,2,2,6,2,2,5,6,5,100,50
+3ab34a1a-34d2-4e0c-a506-7f113781ea49,Family Opposition to Organ Donation Despite First Person Consent,5,4,2,2,1,1,1,2,1,6,4,4,4,3,3
+a73401b5-5c34-4518-9b2e-8266d2df7f1b,A Family Divided,1,6,1,6,2,2,2,6,6,6,1,1,6,92,50
+b5f7c8a8-a923-4bac-ad74-655e02424ac6,My Patient’s Dying,4,4,3,4,2,6,2,2,6,6,2,2,4,70,40
+a1cb23bc-eb8b-4121-8b56-65c78c1b8b23,Starting ECMO Husband Requests Intervention for Wife Without Her Consent,5,6,6,6,1,1,1,1,1,1,1,1,1,100,31
+975db1b2-4ef3-433f-abe3-a8ed34ff2b7b,Clinical Research Involving Children,1,1,1,1,1,1,1,1,1,1,1,1,1,91,93
+c9636ea4-23b7-4c49-bc63-d139e40f6e27, Scarce Resources,4,6,2,1,1,1,1,1,1,1,1,1,1,100,40
+4b8047f9-9cf8-411e-b477-c6a7a50a76be,Vaccinating Children,1,1,1,1,1,1,1,1,1,1,1,1,1,100,100
+f48914eb-bc3a-43aa-8fda-194eb400279e,A Multidisciplinary Healthcare Team Disagrees with Keeping the Patient Full Code,1,1,1,6,1,1,1,1,1,1,1,1,1,100,52
+a951fc6b-38d2-4343-9092-c4089d9f05af,Alice’s Frail Mother,2,3,1,2,1,2,2,1,1,1,3,3,4,56,45
+10ea0136-d3ef-4369-93fe-069562ae20d0,Trying to Honor Johnny's Wishes,3,2,4,1,4,3,1,2,1,2,3,1,1,75,10
+a42867ea-b8a4-4730-90b7-8789e8d58a7e,Everything Be Done,3,4,1,1,1,1,1,1,1,3,1,1,1,85,56
+a42867ea-b8a4-4730-90b7-8789e8d58a7e,Everything Be Done,3,3,1,1,1,1,1,1,1,4,1,1,1,90,60
+aabec779-52ff-458d-b30d-59a0baf06f84, Maxine’s New Love and Decisional Capacity,4,4,4,4,6,6,3,6,6,3,4,1,1,66,45
+be768d69-94fd-4b4e-a85c-2d3ebe53e2a2,Don’t Take My Foot! Surrogate Decision-Making,6,4,2,3,3,6,6,6,6,6,6,6,1,29,54
+a951fc6b-38d2-4343-9092-c4089d9f05af,Alice’s Frail Mother,5,5,1,1,1,1,1,1,1,1,5,5,5,80,20
+b0d3c100-9bd4-4149-a9f3-bd343337013a,Genetic Testing Ethics,6,6,6,6,6,6,6,6,6,6,4,6,1,91,54
+09613b2c-14f5-4001-92bd-6798d1ee98d5,Aaron’s Siblings Need to Make a Tough Decision,1,6,1,1,1,1,1,1,1,6,1,1,1,97,90
+be546d68-9484-4e4b-843d-7bb62d2498bd,Vaccination and Autism,1,6,6,6,6,6,6,6,6,6,3,6,6,8,54
+c081d151-0003-4971-bae7-146a0f3ce80c,The Role of Literacy in Making Wishes Known,4,4,2,6,5,6,2,2,6,1,5,5,5,80,25
+a538b923-87af-41ba-8b2c-1777d86ff321,"Too Little, too Late... Almost",5,5,3,6,6,6,4,4,4,4,1,1,3,19,0
+b0d3c100-9bd4-4149-a9f3-bd343337013a,Genetic Testing Ethics,4,4,6,4,6,6,6,6,6,2,4,4,4,90,30
+be546d68-9484-4e4b-843d-7bb62d2498bd,Vaccination and Autism,2,2,2,6,6,6,6,2,6,6,2,3,6,60,10
+2c223c56-3c50-4f1d-8b12-141f668736fe,"COPD Patient Rejects Science on Smoking Bonnie Says, “I’m Going to Believe What I Believe.”",5,5,4,2,6,1,2,3,6,5,5,2,6,5,50
+8d8acf6f-e810-46dd-bac7-2f73afa5b2fa, Matter of Quinlan,3,2,1,1,1,1,1,1,1,3,1,1,1,86,60
+f4769227-0ab3-437d-a5d3-9d4e20b43de8,Confidentiality in the Age of AIDS: A Case Study in Clinical Ethics,2,1,1,2,2,1,1,1,1,1,2,2,2,77,43
+8a41b689-9c1f-450d-a56c-9517724f11b9,Disagreement Over Advance Directive,4,4,1,1,1,1,1,1,1,3,1,1,1,30,65
+b0d3c100-9bd4-4149-a9f3-bd343337013a,Genetic Testing Ethics,2,2,2,3,5,6,6,5,6,6,5,6,5,30,50
+be546d68-9484-4e4b-843d-7bb62d2498bd,Vaccination and Autism,3,6,3,6,6,3,6,6,1,6,4,1,6,0,0
+c081d151-0003-4971-bae7-146a0f3ce80c,The Role of Literacy in Making Wishes Known,5,4,4,6,5,6,4,4,6,3,5,6,6,100,20
+2c223c56-3c50-4f1d-8b12-141f668736fe,"COPD Patient Rejects Science on Smoking Bonnie Says, “I’m Going to Believe What I Believe.”",6,6,3,6,2,1,1,2,1,6,3,6,6,0,0
+a538b923-87af-41ba-8b2c-1777d86ff321,"Too Little, too Late... Almost",5,5,5,6,6,6,6,3,4,4,4,6,5,70,0
+e1495ba6-b8a9-48e4-992f-93592bf4f0e5,Walking The Tightrope,5,5,5,3,2,2,2,3,1,4,4,2,2,80,30
+c0fba7f0-45e3-4c34-9d08-c2cfb1a3e0ee,Distributive Justice: A Challenge for Clinical Ethics,5,5,5,5,5,6,6,5,6,5,5,6,4,30,82
+a42867ea-b8a4-4730-90b7-8789e8d58a7e,Everything Be Done,1,5,1,1,1,1,1,1,1,4,1,4,4,100,10
+aabec779-52ff-458d-b30d-59a0baf06f84, Maxine’s New Love and Decisional Capacity,5,3,1,6,6,6,6,6,6,6,6,6,6,90,10
+aabec779-52ff-458d-b30d-59a0baf06f84, Maxine’s New Love and Decisional Capacity,6,3,6,6,6,6,6,6,6,6,6,6,6,90,10
+a2745ee8-fa76-49b0-b988-848b82a17f75,Barney Says No,3,4,3,2,3,2,1,3,3,4,5,3,2,30,20
+eabfc9f4-1265-4aac-b180-cb29af70231b,Doctor-Patient Relationships: When Is It Ethically Acceptable to End Them?,4,4,4,4,5,5,4,3,4,4,5,4,5,20,50
+aabec779-52ff-458d-b30d-59a0baf06f84, Maxine’s New Love and Decisional Capacity,4,4,4,3,6,6,4,4,3,4,3,2,3,65,75
+e1495ba6-b8a9-48e4-992f-93592bf4f0e5,Walking The Tightrope,4,5,4,2,6,6,6,6,6,3,2,2,2,77,64
+f4769227-0ab3-437d-a5d3-9d4e20b43de8,Confidentiality in the Age of AIDS: A Case Study in Clinical Ethics,4,4,4,6,5,4,4,5,4,4,4,3,3,36,10
+a42867ea-b8a4-4730-90b7-8789e8d58a7e,Everything Be Done,5,5,5,2,3,3,3,4,3,5,5,4,3,45,52
+c0fba7f0-45e3-4c34-9d08-c2cfb1a3e0ee,Distributive Justice: A Challenge for Clinical Ethics,5,5,5,3,4,3,5,5,3,5,4,4,3,73,59
+8a41b689-9c1f-450d-a56c-9517724f11b9,Disagreement Over Advance Directive,4,4,4,2,3,3,2,3,2,4,4,3,2,48,63
+19763dda-15ed-4c17-a899-d82d7499000b,Genetic Material: To Whom Does It Belong?,4,2,4,3,,,,,,,,,,,
+a2745ee8-fa76-49b0-b988-848b82a17f75,Barney Says No,2,6,3,3,6,1,2,3,3,6,3,1,1,93,100
+a2745ee8-fa76-49b0-b988-848b82a17f75,Barney Says No,3,4,3,2,6,1,2,2,6,6,2,1,1,90,50
+8d8acf6f-e810-46dd-bac7-2f73afa5b2fa, Matter of Quinlan,4,5,5,6,5,5,6,4,5,2,5,6,2,100,0
+a2745ee8-fa76-49b0-b988-848b82a17f75,Barney Says No,4,5,4,2,,,,,,,,,,,
+aabec779-52ff-458d-b30d-59a0baf06f84, Maxine’s New Love and Decisional Capacity,4,4,4,3,2,6,3,,,,,,,,
+f4769227-0ab3-437d-a5d3-9d4e20b43de8,Confidentiality in the Age of AIDS: A Case Study in Clinical Ethics,4,4,4,6,4,4,4,4,4,3,,,,,
+09613b2c-14f5-4001-92bd-6798d1ee98d5,Aaron’s Siblings Need to Make a Tough Decision,4,4,5,4,6,3,4,6,4,6,3,4,6,50,50
+58172a5a-26ed-4f8e-bf29-3b0f4c20448a,Baby K,5,5,4,6,5,6,5,4,6,5,5,5,5,41,75
+eabfc9f4-1265-4aac-b180-cb29af70231b,Doctor-Patient Relationships: When Is It Ethically Acceptable to End Them?,2,6,6,5,4,6,4,4,6,5,5,5,5,80,81
+ab682458-9bac-4a18-98c3-c91465e6bf47,Angela C – Maternal Fetal Issues,4,4,4,6,4,6,4,4,6,6,5,4,4,94,86
+106c4134-4378-4902-925c-1f1466e11eb6,“I Don’t Trust It.” Vaccine Hesitancy During a Pandemic,3,4,4,6,6,6,4,4,6,4,4,5,5,16,43
+975db1b2-4ef3-433f-abe3-a8ed34ff2b7b,Clinical Research Involving Children,6,6,6,6,6,6,6,6,6,6,6,6,6,58,54
+c9636ea4-23b7-4c49-bc63-d139e40f6e27, Scarce Resources,2,6,6,6,6,6,6,6,6,6,6,6,6,66,50
+f48914eb-bc3a-43aa-8fda-194eb400279e,A Multidisciplinary Healthcare Team Disagrees with Keeping the Patient Full Code,5,5,5,5,4,4,4,4,6,4,4,6,6,22,63
+f4769227-0ab3-437d-a5d3-9d4e20b43de8,Confidentiality in the Age of AIDS: A Case Study in Clinical Ethics,1,1,2,6,,,,,,,,,,,
+bef6dff7-d7b3-4632-80c6-4e01a82e3ee6,Tatiana Tarasoff: A Duty to Warn,1,1,4,6,,,,,,,,,,,
+58172a5a-26ed-4f8e-bf29-3b0f4c20448a,Baby K,5,5,3,2,2,2,6,2,3,4,5,2,1,82,94
+b8d6fee4-10b2-4c98-9245-368bcfe8efa5,Immigrant Caregiver Mother Fears Visit to Hospital,4,3,3,6,4,1,2,3,4,4,4,3,1,93,20
+421635bc-0a7b-4e31-9237-a6d377f01447,Clinical Trial Consent in Alzheimer's Research,4,4,4,5,4,4,4,4,4,5,5,4,4,71,71
+7cf245e6-1373-4a64-baa5-593f44596f04,God Wants Me to Suffer. Hospital Care and Religious Beliefs,5,4,4,3,6,2,3,2,3,4,5,3,1,46,93
+6e6da89b-ee8c-4867-af12-4c46ea7e2a34,Our Pregnant Daughter Didn’t Want This.,4,4,4,6,5,5,5,4,6,4,5,4,6,80,30
+f3d97825-2adf-479d-b44c-55c71e654010,Good Death or Assisted Suicide?,4,3,5,6,5,5,5,4,4,4,5,4,4,50,65
+c3b6daee-6f21-4aab-82a4-b56a4c8c33d0,Mr. Jay’s Case,2,6,6,6,6,3,6,6,6,6,3,3,6,90,50
+be768d69-94fd-4b4e-a85c-2d3ebe53e2a2,Don’t Take My Foot! Surrogate Decision-Making,3,6,3,2,2,2,3,2,6,6,4,2,2,40,10
+a1cb23bc-eb8b-4121-8b56-65c78c1b8b23,Starting ECMO Husband Requests Intervention for Wife Without Her Consent,3,3,1,1,6,6,2,2,6,3,6,6,6,90,20
+c081d151-0003-4971-bae7-146a0f3ce80c,The Role of Literacy in Making Wishes Known,5,4,5,6,6,6,5,5,6,5,5,6,5,30,75
+a538b923-87af-41ba-8b2c-1777d86ff321,"Too Little, too Late... Almost",6,4,4,3,5,6,3,6,6,6,3,3,6,39,54
+b0d3c100-9bd4-4149-a9f3-bd343337013a,Genetic Testing Ethics,6,6,6,6,6,6,6,6,6,6,6,6,5,65,49
+be546d68-9484-4e4b-843d-7bb62d2498bd,Vaccination and Autism,5,6,4,6,6,6,6,6,6,6,4,4,6,54,39
+2c223c56-3c50-4f1d-8b12-141f668736fe,"COPD Patient Rejects Science on Smoking Bonnie Says, “I’m Going to Believe What I Believe.”",5,5,5,3,6,6,3,2,6,4,4,4,6,25,40
+a73401b5-5c34-4518-9b2e-8266d2df7f1b,A Family Divided,3,2,3,2,3,3,2,2,3,2,2,2,3,57,32
+1e65e275-5225-44fc-b2b4-d7e7f1757c43,Technology Means Hard Choices: To Start or Not to Start ECMO,4,3,5,4,4,3,4,4,5,4,4,4,5,79,84
+be768d69-94fd-4b4e-a85c-2d3ebe53e2a2,Don’t Take My Foot! Surrogate Decision-Making,4,3,2,6,6,2,6,1,2,2,2,6,1,50,50
+106c4134-4378-4902-925c-1f1466e11eb6,“I Don’t Trust It.” Vaccine Hesitancy During a Pandemic,1,2,1,6,6,2,1,4,2,6,5,4,5,31,60
+eabfc9f4-1265-4aac-b180-cb29af70231b,Doctor-Patient Relationships: When Is It Ethically Acceptable to End Them?,6,1,1,5,6,5,6,6,6,4,5,5,5,10,95
+5722330c-56cb-4f7c-b115-4fcbd3d67f75,Case Study – Moral Distress of Hospital Workers,4,4,3,3,4,5,4,6,4,2,6,6,6,90,40
+f0539682-d579-4b62-b5b8-428d060c8fae,The Law or Ethics: Which Should Take Priority?,4,4,4,6,1,1,1,4,6,2,2,2,6,70,20
+4b8047f9-9cf8-411e-b477-c6a7a50a76be,Vaccinating Children,3,6,4,6,6,3,3,3,6,6,3,2,6,50,20
+a73401b5-5c34-4518-9b2e-8266d2df7f1b,A Family Divided,3,6,3,3,4,4,4,3,4,6,3,2,3,50,50
+2fdf254e-8125-4c24-855e-381f6093b60b,The Noncompliant or Nonadherent Patient,2,6,6,1,6,6,6,6,1,3,3,1,2,70,70
+10ea0136-d3ef-4369-93fe-069562ae20d0,Trying to Honor Johnny's Wishes,5,4,5,5,3,3,3,2,3,3,5,5,3,21,23
+be768d69-94fd-4b4e-a85c-2d3ebe53e2a2,Don’t Take My Foot! Surrogate Decision-Making,5,5,5,2,5,3,3,3,3,5,5,3,3,74,23
+106c4134-4378-4902-925c-1f1466e11eb6,“I Don’t Trust It.” Vaccine Hesitancy During a Pandemic,4,3,4,3,5,5,5,5,4,4,5,5,5,10,25
+4b8047f9-9cf8-411e-b477-c6a7a50a76be,Vaccinating Children,4,4,5,3,,,,,,,,,,,
+4b8047f9-9cf8-411e-b477-c6a7a50a76be,Vaccinating Children,4,3,4,3,,,,,,,,,,,
+2fdf254e-8125-4c24-855e-381f6093b60b,The Noncompliant or Nonadherent Patient,4,5,4,2,2,2,3,,,,,,,,
+5722330c-56cb-4f7c-b115-4fcbd3d67f75,Case Study – Moral Distress of Hospital Workers,5,4,5,4,5,4,5,4,4,5,2,2,2,,
+b98f3c40-0aa6-4cd0-88c5-a0022fa9f26e,What Should We Do? DNR for an Adult with Down Syndrome,4,6,6,1,1,1,1,1,1,6,1,1,1,92,11
+f0539682-d579-4b62-b5b8-428d060c8fae,The Law or Ethics: Which Should Take Priority?,5,6,1,1,1,1,1,6,1,1,1,1,6,90,11
+57640e4d-1b00-4fea-a68e-56f14985568e,“ECMO? For How Long?” ECMO Extends Life and Poses Challenging Ethics Questions,1,6,1,1,1,1,1,1,1,6,1,1,1,95,7
+4cfde056-677d-4a74-ae30-4fd3eb77ad39,How Do We Discharge Mr. Baylus? Challenging Discharge Plans,5,6,1,1,1,1,1,1,1,6,1,1,1,91,7
+dc498f1a-e06f-489b-802d-4c6318b613c7,Casey’s Last Inning,5,1,1,1,1,1,1,6,1,6,1,1,1,89,12
+4b0e8b83-7ee1-4d67-a36a-a520e763fe4d,When a Parent Overrules Their Child’s Best Interests,4,5,3,1,6,2,1,6,1,5,5,4,1,94,4
+5722330c-56cb-4f7c-b115-4fcbd3d67f75,Case Study – Moral Distress of Hospital Workers,3,3,4,4,5,4,5,4,4,4,1,2,6,100,24
+bef6dff7-d7b3-4632-80c6-4e01a82e3ee6,Tatiana Tarasoff: A Duty to Warn,4,3,4,2,1,2,2,2,2,6,3,3,6,72,74
+4b0e8b83-7ee1-4d67-a36a-a520e763fe4d,When a Parent Overrules Their Child’s Best Interests,2,4,2,1,6,1,2,2,1,4,5,2,6,20,30
+6e6da89b-ee8c-4867-af12-4c46ea7e2a34,Our Pregnant Daughter Didn’t Want This.,3,4,6,6,6,4,4,4,6,5,6,6,6,90,15
+19763dda-15ed-4c17-a899-d82d7499000b,Genetic Material: To Whom Does It Belong?,4,6,6,6,6,6,6,2,6,2,6,2,6,9,20
+4b0e8b83-7ee1-4d67-a36a-a520e763fe4d,When a Parent Overrules Their Child’s Best Interests,2,4,6,2,6,6,6,2,2,4,5,6,2,10,20
+a73401b5-5c34-4518-9b2e-8266d2df7f1b,A Family Divided,1,3,1,1,1,1,1,1,2,3,3,1,6,91,10
+1e65e275-5225-44fc-b2b4-d7e7f1757c43,Technology Means Hard Choices: To Start or Not to Start ECMO,5,3,5,5,5,5,5,3,5,4,2,5,5,81,84
+8a41b689-9c1f-450d-a56c-9517724f11b9,Disagreement Over Advance Directive,3,3,4,2,1,1,1,1,1,4,3,3,4,94,73
+8d8acf6f-e810-46dd-bac7-2f73afa5b2fa, Matter of Quinlan,2,2,1,1,1,1,1,1,1,6,2,1,6,99,5
+c081d151-0003-4971-bae7-146a0f3ce80c,The Role of Literacy in Making Wishes Known,4,5,4,4,4,3,4,5,4,3,4,3,3,75,50
+a538b923-87af-41ba-8b2c-1777d86ff321,"Too Little, too Late... Almost",5,5,4,4,4,6,6,5,6,6,5,5,5,50,50
+f3d97825-2adf-479d-b44c-55c71e654010,Good Death or Assisted Suicide?,5,5,5,4,4,,5,5,4,5,5,5,4,41,79
+c3b6daee-6f21-4aab-82a4-b56a4c8c33d0,Mr. Jay’s Case,5,4,4,4,4,4,5,4,4,4,5,5,4,92,21
+a1cb23bc-eb8b-4121-8b56-65c78c1b8b23,Starting ECMO Husband Requests Intervention for Wife Without Her Consent,5,4,4,3,4,4,4,4,4,4,5,5,4,65,54
+f4769227-0ab3-437d-a5d3-9d4e20b43de8,Confidentiality in the Age of AIDS: A Case Study in Clinical Ethics,5,6,6,6,5,6,6,6,6,6,6,6,6,88,10
+a2745ee8-fa76-49b0-b988-848b82a17f75,Barney Says No,6,6,6,6,6,6,6,6,6,6,6,6,6,50,50
+bef6dff7-d7b3-4632-80c6-4e01a82e3ee6,Tatiana Tarasoff: A Duty to Warn,4,3,3,2,2,2,2,,,,,,,,
+5722330c-56cb-4f7c-b115-4fcbd3d67f75,Case Study – Moral Distress of Hospital Workers,4,5,4,3,5,5,5,4,4,3,5,1,6,,
+ab682458-9bac-4a18-98c3-c91465e6bf47,Angela C – Maternal Fetal Issues,5,5,5,6,5,5,5,5,5,1,4,3,6,100,0
+975db1b2-4ef3-433f-abe3-a8ed34ff2b7b,Clinical Research Involving Children,1,1,1,6,6,6,6,6,6,6,6,6,6,45,80
+c9636ea4-23b7-4c49-bc63-d139e40f6e27, Scarce Resources,4,6,3,6,4,6,6,5,4,3,6,6,6,80,20
+f48914eb-bc3a-43aa-8fda-194eb400279e,A Multidisciplinary Healthcare Team Disagrees with Keeping the Patient Full Code,5,3,3,6,6,3,6,2,3,6,1,6,6,75,50
+3ab34a1a-34d2-4e0c-a506-7f113781ea49,Family Opposition to Organ Donation Despite First Person Consent,3,6,1,6,6,5,6,4,2,1,5,6,5,100,0
+2dbee500-c320-445a-b1c8-6ce15d384f96,End-Stage Cancer Treatment Decision,5,5,5,4,5,5,5,5,3,5,5,5,5,72,70
+b5f7c8a8-a923-4bac-ad74-655e02424ac6,My Patient’s Dying,5,6,5,5,6,6,5,5,6,1,5,6,6,100,68
+09613b2c-14f5-4001-92bd-6798d1ee98d5,Aaron’s Siblings Need to Make a Tough Decision,5,4,5,6,5,5,5,5,6,6,5,3,4,0,74
