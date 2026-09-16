@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "Autonomy Index: data and code"
+message: "If you use this software or data, please cite the accompanying preprint."
+type: dataset
+authors:
+  - family-names: "Dutta Roy"
+    given-names: "Taposh"
+    orcid: "https://orcid.org/0000-0002-8166-3636"
+    affiliation: "Center for Bioethics, Harvard Medical School"
+  - family-names: "Weintraub Brendel"
+    given-names: "Rebecca"
+    orcid: "https://orcid.org/0009-0005-9300-7029"
+    affiliation: "Center for Bioethics, Harvard Medical School"
+version: 1.0.0
+date-released: 2026-09-16
+license: MIT
